@@ -1,3 +1,2 @@
-# Tresemi
-Tresemi repository    
-chào anh khoa, thằng em trông cậy hết vào anh 
+# SPI TestBench    
+chưa có gì do server sập rồi :)))
