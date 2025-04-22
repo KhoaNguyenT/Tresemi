@@ -1,0 +1,1 @@
+/home/eda/siemens/questasim/questasim/linux_x86_64/VisualizerRls/bin/viscom -nolock -quiet -jmem_size 91177248 +acc top -o vopt_top +designfile +__betafsm

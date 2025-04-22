@@ -1,0 +1,7 @@
+TB location: /home/tresemi_share_folder/lab_p1_spi_tb
+Make sure you source env.sh
+make compile_spi
+vsim -c top +UVM_TESTNAME=spi_demo_test -do "run -a"
+Deadline to turn in your work is Thursday April 10
+
+
